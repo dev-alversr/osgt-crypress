@@ -1,0 +1,4 @@
+{
+  "env": "staging",
+  "baseUrl": "https://staging.example.com"
+}
